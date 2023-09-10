@@ -9,8 +9,8 @@ jobs:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.4
         with:
-          organization: GitHub-Org
-          label: invite me to the GDG Bhilaiorganization
+          organization: GDG-Bhilai
+          label: invite on label
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: 'Welcome to the GDG Bhilai Org.'
         env:
