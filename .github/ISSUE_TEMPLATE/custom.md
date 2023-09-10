@@ -1,6 +1,6 @@
 ---
 name: Invite to org
-about:Invitation
+about: Invitation
 title: ''
 labels: invite me to the organization
 assignees: ''
