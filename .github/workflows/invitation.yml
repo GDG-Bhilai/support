@@ -12,7 +12,7 @@ jobs:
           organization: GDG-Bhilai
           label: invite me to the organization
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: 'Welcome to the Org.'
+          comment: '<b>Invitation sent to join the GitHub Organisation. Welcome to the community 🎉</b>'
           existingMemberMessage: 'You are already a member of our Organisation.'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
